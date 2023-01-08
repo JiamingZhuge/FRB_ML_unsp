@@ -1,6 +1,6 @@
 # CHIME FRBs unsupervised machine learning project
 
-The supplementary material for the paper "Machine learning classification of CHIME fast radio bursts: II. Unsupervised Methods". <zhugejiaming@mail.ustc.edu.cn>
+This is the supplementary material for the paper "Machine learning classification of CHIME fast radio bursts: II. Unsupervised Methods". <zhugejiaming@mail.ustc.edu.cn>
 
 ### Papers can be found in:
 
